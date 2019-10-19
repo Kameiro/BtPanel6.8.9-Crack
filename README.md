@@ -7,3 +7,5 @@
 后根据需求选择即可
 ## 支持哪些系统？
 目前未安装宝塔面板破解仅支持CentOS，其它功能支持Ubuntu/Debian。我们会尽力适配其它系统。
+## 使用截图
+![blockchain](https://s2.ax1x.com/2019/10/19/KnOiFJ.png "脚本使用截图")
