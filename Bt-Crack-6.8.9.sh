@@ -737,8 +737,8 @@ main(){
 clear
 echo -e "${Green_font}
 #=======================================
-# Name:         bt-6.8.9-crack-JiaJiaFix
-# Version:      6.8.9
+# Name:bt-6.8.9-crack-JiaJiaFix
+# Version:6.8.9
 # 甲甲修复BUG+添加功能
 # 本版本甲甲修复内容：
 # 1.无法正常安装宝塔的BUG
